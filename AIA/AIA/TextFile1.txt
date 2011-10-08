@@ -1,0 +1,35 @@
+﻿BASIC
+
+	
+
+ADV
+
+Unit waypoints
+Unit build from key press
+
+ENGINE
+
+InputHandler
+
+
+BuildingManager
+AssetManager
+
+UnitManager
+
+Core Engine?
+
+
+DUN
+
+Build building
+	- Hold B down + click to create 
+Select building
+Building unit
+
+END
+
+Selection box code - Matt
+Unit code - Steve
+Building code - Sam
+Manager code - Freff

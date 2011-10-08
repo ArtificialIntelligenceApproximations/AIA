@@ -1,0 +1,64 @@
+c:\users\chris\documents\visual studio 2010\Projects\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Unit.xnb
+c:\users\chris\documents\visual studio 2010\Projects\AIA\AIA\AIA\bin\x86\Debug\AIA.exe
+c:\users\chris\documents\visual studio 2010\Projects\AIA\AIA\AIA\bin\x86\Debug\AIA.pdb
+c:\users\chris\documents\visual studio 2010\Projects\AIA\AIA\AIA\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2010\Projects\AIA\AIA\AIA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\chris\documents\visual studio 2010\Projects\AIA\AIA\AIA\obj\x86\Debug\AIA.exe
+c:\users\chris\documents\visual studio 2010\Projects\AIA\AIA\AIA\obj\x86\Debug\AIA.pdb
+c:\users\chris\documents\visual studio 2010\Projects\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Building.xnb
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Unit.xnb
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Building.xnb
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\bin\x86\Debug\AIA.exe
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\bin\x86\Debug\AIA.pdb
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\obj\x86\Debug\AIA.exe
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\obj\x86\Debug\AIA.pdb
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\DottedLine.xnb
+C:\Users\Chris\Documents\AIA\AIA Selection Changes\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Unit.xnb
+C:\Users\Chris\Documents\AIA\AIA Selection Changes\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Building.xnb
+C:\Users\Chris\Documents\AIA\AIA Selection Changes\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\DottedLine.xnb
+C:\Users\Chris\Documents\AIA\AIA Selection Changes\AIA\AIA\AIA\bin\x86\Debug\AIA.exe
+C:\Users\Chris\Documents\AIA\AIA Selection Changes\AIA\AIA\AIA\bin\x86\Debug\AIA.pdb
+C:\Users\Chris\Documents\AIA\AIA Selection Changes\AIA\AIA\AIA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\AIA\AIA Selection Changes\AIA\AIA\AIA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Documents\AIA\AIA Selection Changes\AIA\AIA\AIA\obj\x86\Debug\AIA.exe
+C:\Users\Chris\Documents\AIA\AIA Selection Changes\AIA\AIA\AIA\obj\x86\Debug\AIA.pdb
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Unit.xnb
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Building.xnb
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\DottedLine.xnb
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\AIA\bin\x86\Debug\AIA.exe
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\AIA\bin\x86\Debug\AIA.pdb
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\AIA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\AIA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\AIA\obj\x86\Debug\AIA.exe
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\AIA\obj\x86\Debug\AIA.pdb
+C:\Users\Matt\Documents\XNA\AIA\Current\AIA\AIA\AIA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\XNA\AIA\Current\AIA\AIA\AIA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Matt\Documents\XNA\AIA\Current\AIA\AIA\AIA\obj\x86\Debug\AIA.exe
+C:\Users\Matt\Documents\XNA\AIA\Current\AIA\AIA\AIA\obj\x86\Debug\AIA.pdb
+C:\Users\Matt\Documents\XNA\AIA\Current\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Unit.xnb
+C:\Users\Matt\Documents\XNA\AIA\Current\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Building.xnb
+C:\Users\Matt\Documents\XNA\AIA\Current\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\DottedLine.xnb
+C:\Users\Matt\Documents\XNA\AIA\Current\AIA\AIA\AIA\bin\x86\Debug\AIA.exe
+C:\Users\Matt\Documents\XNA\AIA\Current\AIA\AIA\AIA\bin\x86\Debug\AIA.pdb
+C:\Users\Chris\Documents\AIA\Current\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Unit.xnb
+C:\Users\Chris\Documents\AIA\Current\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Building.xnb
+C:\Users\Chris\Documents\AIA\Current\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\DottedLine.xnb
+C:\Users\Chris\Documents\AIA\Current\AIA\AIA\AIA\bin\x86\Debug\AIA.exe
+C:\Users\Chris\Documents\AIA\Current\AIA\AIA\AIA\bin\x86\Debug\AIA.pdb
+C:\Users\Chris\Documents\AIA\Current\AIA\AIA\AIA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\AIA\Current\AIA\AIA\AIA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Documents\AIA\Current\AIA\AIA\AIA\obj\x86\Debug\AIA.exe
+C:\Users\Chris\Documents\AIA\Current\AIA\AIA\AIA\obj\x86\Debug\AIA.pdb
+C:\Users\samuel\Desktop\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Unit.xnb
+C:\Users\samuel\Desktop\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\DottedLine.xnb
+C:\Users\samuel\Desktop\AIA\AIA\AIA\bin\x86\Debug\AIA.exe
+C:\Users\samuel\Desktop\AIA\AIA\AIA\bin\x86\Debug\AIA.pdb
+C:\Users\samuel\Desktop\AIA\AIA\AIA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\samuel\Desktop\AIA\AIA\AIA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\samuel\Desktop\AIA\AIA\AIA\obj\x86\Debug\AIA.exe
+C:\Users\samuel\Desktop\AIA\AIA\AIA\obj\x86\Debug\AIA.pdb
+C:\Users\samuel\Desktop\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Tower.xnb
+C:\Users\samuel\Desktop\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Factory.xnb
+C:\Users\samuel\Desktop\AIA\AIA\AIA\bin\x86\Debug\Content\Textures\Wall.xnb

@@ -1,0 +1,7 @@
+c:\users\chris\documents\visual studio 2010\Projects\AIA\AIA\AIAContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIAContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\AIA\AIA Selection Changes\AIA\AIA\AIAContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\XNA\AIA\AIA\AIA\AIAContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\XNA\AIA\Current\AIA\AIA\AIAContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\AIA\Current\AIA\AIA\AIAContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\samuel\Desktop\AIA\AIA\AIAContent\obj\x86\Debug\ResolveAssemblyReference.cache

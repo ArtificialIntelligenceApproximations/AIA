@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIA", "AIA\AIA\AIA.csproj", "{E19C7311-6228-415E-910A-7EBD3D0C5596}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "AIAContent", "AIA\AIAContent\AIAContent.contentproj", "{7AA440E4-4598-43C3-A078-A0B2E7C317A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E19C7311-6228-415E-910A-7EBD3D0C5596}.Debug|x86.ActiveCfg = Debug|x86
+		{E19C7311-6228-415E-910A-7EBD3D0C5596}.Debug|x86.Build.0 = Debug|x86
+		{E19C7311-6228-415E-910A-7EBD3D0C5596}.Release|x86.ActiveCfg = Release|x86
+		{E19C7311-6228-415E-910A-7EBD3D0C5596}.Release|x86.Build.0 = Release|x86
+		{7AA440E4-4598-43C3-A078-A0B2E7C317A2}.Debug|x86.ActiveCfg = Debug|x86
+		{7AA440E4-4598-43C3-A078-A0B2E7C317A2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
