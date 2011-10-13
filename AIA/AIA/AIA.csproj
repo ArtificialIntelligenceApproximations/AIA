@@ -119,6 +119,7 @@
     <Compile Include="Lib\Maths.cs" />
     <Compile Include="Managers\AssetManager.cs" />
     <Compile Include="Managers\BuildingManager.cs" />
+    <Compile Include="Managers\UnitManager.cs" />
     <Compile Include="Managers\InputManager.cs" />
     <Compile Include="Map\Map.cs" />
     <Compile Include="Map\Tile.cs" />
